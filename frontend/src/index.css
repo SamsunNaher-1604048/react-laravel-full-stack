@@ -231,6 +231,12 @@ table > tbody > tr > td {
     animation-name: fadeInDown;
 }
 
+.customcss1{
+    margin-top: 50px;
+    height: 200px;
+    width: 500px;
+}
+
 @keyframes fadeInDown {
     0% {
         opacity: 0;
